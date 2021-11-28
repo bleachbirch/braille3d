@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="braille3d:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/braille3d_jar</output-path>
+    <root id="archive" name="braille3d.jar">
+      <element id="module-output" name="braille3d" />
+    </root>
+  </artifact>
+</component>

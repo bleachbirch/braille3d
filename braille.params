@@ -1,0 +1,9 @@
+circle_radio: 6;
+circles_ratio: 25;
+width_ratio: 30;
+heigth_ratio: 40;
+lines_count: 10;
+tokens_count: 5;
+end
+
+
